@@ -1,5 +1,4 @@
 
-<html lang="pt-br">
 # html-css
 <br>
     Curso de HTML5 e CSS3 do Cursoemvideo
