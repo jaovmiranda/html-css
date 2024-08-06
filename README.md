@@ -5,5 +5,5 @@
 
     Estou apredendo a criar sites e agora vou gerenciar meus repositórios!
     
-   <a href="ex01/index.html">Executar exercicio 01</a>
+   <a href="https://jaovmiranda.github.io/html-css/ex01/index.html">Executar exercicio 01</a>
    
